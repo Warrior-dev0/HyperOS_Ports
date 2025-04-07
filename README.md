@@ -1,5 +1,32 @@
 # HyperOS_Ports
 HyperOS Ports for RedmiNote10Pro | <p>by Warri<img src="https://github.com/Warrior-dev0/HyperOS_Ports/blob/main/warrior.svg" width="18" height="18">R.</p>
+## Android 14 | HyperOS OS2.0.1.0 - PORT<br/>
+  
+   ▪️ [Download](https://devuploads.com/5xs43tzuosak)<br/>
+   ▪️ [Screenshots](https://t.me/Xiaomi_EU_Ports/80)<br/>
+   ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
+   ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
+   ▪️ [Installation Steps](https://t.me/XiaomiEUPortsGroup/276)<br/>
+
+   Info:<br/>
+     • Clean flash MANDATORY.  
+     • Base: VENUS OS2.0.2.0  
+     • EU Multilang Base  
+     • Leica Camera 5.1 (because default camera doesn't work)  
+     • STRIX Kernel (KSU —I hate KSU Next)  
+     • Ram Management tweaks  
+     • Theme Reset Fixed  
+     • AOD Fixed  
+     • BT Audio Fixed (not tested)  
+     • Other Fixes & Enhancements  
+     • Certified by Default  
+     • Every bug report and feedback is good for your future experience  
+     • Fully RW (Partitions that have free space)  
+     • Don't Change Kernel (If You Do then don't report any battery drain or late app opening issues.  
+     • Previous Bugs Fixed from feedback  
+
+
+
 ## Android 15 | HyperOS OS2.0.8.0 - PORT<br/>
   
    ▪️ [Download](https://devuploads.com/5xs43tzuosak)<br/>
@@ -13,17 +40,17 @@ HyperOS Ports for RedmiNote10Pro | <p>by Warri<img src="https://github.com/Warri
      • Base: Amathyst OS2.0.8.0  
      • EU Multilang Base  
      • Leica Camera 5.1 (because default camera doesn't work)  
-     • STRIX Kernel (KSU —I hate KSU Next)
-     • Ram Management tweaks
-     • Theme Reset Fixed
-     • AOD Fixed
-     • BT Audio Fixed
-     • Other Fixes & Enhancements
-     • Certified by Default
-     • Every bug report and feedback is good for your future experience
-     • Fully RW (Partitions that have free space)
+     • STRIX Kernel (KSU —I hate KSU Next)  
+     • Ram Management tweaks  
+     • Theme Reset Fixed  
+     • AOD Fixed  
+     • BT Audio Fixed  
+     • Other Fixes & Enhancements  
+     • Certified by Default  
+     • Every bug report and feedback is good for your future experience  
+     • Fully RW (Partitions that have free space)  
      • Don't Change Kernel (If You Do then don't report any battery drain or late app opening issues.  
-     • Previous Bugs Fixed from feedback
+     • Previous Bugs Fixed from feedback  
      
 
 
