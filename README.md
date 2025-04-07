@@ -2,7 +2,7 @@
 HyperOS Ports for RedmiNote10Pro | <p>by Warri<img src="https://github.com/Warrior-dev0/HyperOS_Ports/blob/main/warrior.svg" width="18" height="18">R.</p>
 ## Android 14 | HyperOS OS2.0.1.0 - PORT<br/>
   
-   ▪️ [Download](https://devuploads.com/5xs43tzuosak)<br/>
+   ▪️ [Download](https://devuploads.com/0wl6z5dwvz8w)<br/>
    ▪️ [Screenshots](https://t.me/Xiaomi_EU_Ports/80)<br/>
    ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
    ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
